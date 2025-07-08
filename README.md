@@ -1,5 +1,6 @@
 
 # Voice FAQ Assistant
+![image](https://github.com/user-attachments/assets/6a16348d-c853-434f-b2e7-92d0bf5afee2)
 
 This project implements a modular voice-enabled assistant designed to answer frequently asked questions (FAQs). It leverages Speech-to-Text (STT) for transcribing user queries, a Large Language Model (LLM) for generating responses based on a provided FAQ context, and Text-to-Speech (TTS) for vocalizing the LLM's answers.
 
